@@ -18,6 +18,11 @@ const map = [
         title: "Discord Server",
         description: "Create a discord server for the company",
         status: COMPLETED,
+    },
+    {
+        title: "Profit",
+        description: "Make money",
+        status: PLANNED,
     }
 ]
 
