@@ -98,6 +98,11 @@ html {
                     margin: 10px;
                     background-color: rgba(16,40,60, 0.7);
                     border: rgba(0, 0, 0, 0.5) solid 1px;
+                    transition: transform 0.3s;
+
+                    &:hover {
+                        transform: scale(1.1);
+                    }
 
                     .title-row {
                         display: flex;
