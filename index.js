@@ -10,19 +10,29 @@ const STATUS_CLASS = {
 
 const map = [
     {
-        title: "Website",
-        description: "Create a website for the company",
+        title: "Academic Dashboard",
+        description: "The Academic Dashboard is a dashboard for students to see their current grades, upcoming assignments class progression and other details all on one page.",
         status: IN_PROGRESS,
     },
     {
-        title: "Discord Server",
-        description: "Create a discord server for the company",
+        title: "Event Heatmap & Calendar",
+        description: "The Event Heatmap is a tool for C&S Execs to figure out the best timings to host events for students.",
+        status: PLANNED,
+    },
+    {
+        title: "Achievement System",
+        description: "The Achivements System, is the creation of an achievements system to encourage students to get the the most out of their university experience. (Academics, Discord, Social)",
+        status: PLANNED,
+    },
+    {
+        title: "Community Discord",
+        description: "The Academic Oasis Community Discord is the central hub for students at Ontaro Tech.",
         status: COMPLETED,
     },
     {
-        title: "Profit",
-        description: "Make money",
-        status: PLANNED,
+        title: "C&S Budget Template",
+        description: "A template budget sheet for Clubs and Societies to use to help them plan their events and activities.", 
+        status: COMPLETED,
     }
 ]
 
